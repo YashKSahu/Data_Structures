@@ -1,9 +1,9 @@
 # Data_Structures
 Implementation of various data structures in C and C++.
 
-**References:\n
-*Sites
+References:
+Sites
 www.learndsa.com
 https://www.geeksforgeeks.org/
-*Books:
+Books:
 Introduction to Algorithms 2ed.
