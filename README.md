@@ -1,4 +1,4 @@
-# Data_Structures
+# Data_Structures and Algorithms
 Implementation of various data structures and Algorithms in C and C++.
 
 References:<br/>
